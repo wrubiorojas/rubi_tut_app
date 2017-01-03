@@ -1,3 +1,3 @@
 Hello,
 
-This is he first repository of a Ruby on Rails APP.
+This is The first repository of a Ruby on Rails APP.
